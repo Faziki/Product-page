@@ -1,0 +1,28 @@
+.map-container-section {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container-section iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.jarallax-style {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.collapse-content .fa.fa-heart:hover {
+    color: #f44336 !important;
+}
+
+.collapse-content .fa.fa-share-alt:hover {
+    color: #0d47a1 !important;
+}
